@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Github User Search</string>
+    <string name="splashimage">App Logo</string>
+    <string name="details">Details</string>
+    <string name="moreinfo">Click button Details for more Informations</string>
+    <string name="Search">Search</string>
+    <string name="search_hint">Insert user name</string>
+
+    <string name="username">Username</string>
+    <string name="location">Location</string>
+    <string name="repository">Repository</string>
+    <string name="company">Company</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+
+    <string name="tab_followers">Followers</string>
+    <string name="tab_following">Following</string>
+    <string name="currentlist">the list is empty, try searching a new username!</string>
+    <string name="no_followers">Not followed by anyone</string>
+    <string name="no_following">Not following anyone</string>
+    <string name="action_change_language">Change language settings</string>
+    <string name="favourite">Favourite</string>
+    <string name="add_favorite">Favorite Added</string>
+    <string name="remove_favourite">Favourite Removed</string>
+    <string name="emptyfav">Favourite list is empty, add by searching the user!</string>
+    <string name="ActivateReminder">Activate Reminder Everyday at 09:00 AM</string>
+    <string name="reminderset">Reminder Activated</string>
+    <string name="remindermessage">time to go back to the app!</string>
+    <string name="reminderoff">Reminder has been turned off</string>
+    <string name="reminder">Reminder</string>
+
+
+</resources>

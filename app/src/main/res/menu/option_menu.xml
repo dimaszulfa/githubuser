@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="@string/Search"
+        android:id="@+id/search"
+        app:showAsAction="collapseActionView|always"
+        android:icon="@drawable/ic_baseline_search_24"
+        app:actionViewClass="androidx.appcompat.widget.SearchView" />
+    <item
+        android:title="@string/action_change_language"
+        android:id="@+id/changeLanguage"
+        app:showAsAction="never"
+        android:icon="@drawable/ic_baseline_settings_24"
+        app:actionViewClass="androidx.appcompat.widget.SearchView" />
+    <item
+        android:title="@string/favourite"
+        android:id="@+id/favourite"
+        android:icon="@drawable/ic_baseline_star_24"
+        app:showAsAction="ifRoom" />
+    <item
+        android:title="@string/reminder"
+        android:id="@+id/reminder"
+        app:showAsAction="never" />
+</menu>

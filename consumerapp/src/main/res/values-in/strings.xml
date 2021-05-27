@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App Konsumen</string>
+    <string name="nofav">Tidak ada User yang divaforitkan!</string>
+    <string name="details">Rincian</string>
+    <string name="repository">Repositori</string>
+    <string name="following">Mengikuti</string>
+    <string name="followers">Pengikut</string>
+    <string name="tab_followers">Pengikut</string>
+    <string name="tab_following">Mengikuti</string>
+    <string name="location">Lokasi</string>
+    <string name="username">Namauser</string>
+    <string name="company">Perusahaan</string>
+    <string name="no_followers">daftar kosong</string>
+</resources>

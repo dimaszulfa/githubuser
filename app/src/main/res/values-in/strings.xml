@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pencarian User Github</string>
+    <string name="splashimage">Logo Aplikasi</string>
+    <string name="details">Rincian</string>
+    <string name="moreinfo">Tekan tombol Rincian untuk info lebih lanjut</string>
+    <string name="Search">Cari</string>
+    <string name="search_hint">Masukan nama user</string>
+
+    <string name="username">Namauser</string>
+    <string name="location">Lokasi</string>
+    <string name="repository">Repositori</string>
+    <string name="company">Perusahaan</string>
+    <string name="followers">Pengikut</string>
+    <string name="following">Mengikuti</string>
+
+    <string name="tab_followers">Pengikut</string>
+    <string name="tab_following">Mengikuti</string>
+    <string name="currentlist">daftar user kosong, coba lakukan pencarian dengan nama lain!</string>
+    <string name="no_followers">Tidak diikuti siapapun</string>
+    <string name="no_following">Tidak mengikuti siapapun</string>
+    <string name="action_change_language">Ubah pengaturan bahasa</string>
+    <string name="favourite">Favorit</string>
+    <string name="add_favorite">Ditambahkan ke Favorit</string>
+    <string name="remove_favourite">Favorit di hapus</string>
+    <string name="emptyfav">Daftar Favorit kosong, tambahkan lewat pencarian user!</string>
+    <string name="ActivateReminder">Aktifkan Pengingat setiap jam 09:00 AM</string>
+    <string name="reminderset">Pengingat diaktifkan</string>
+    <string name="remindermessage">Waktunya kembali ke Aplikasi ini!</string>
+    <string name="reminderoff">Pengingat telah dimatikan</string>
+    <string name="reminder">Pengingat</string>
+</resources>
